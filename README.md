@@ -53,7 +53,7 @@
 ![image](https://github.com/chenyc1126/Auto_Quotation/assets/137832751/26494619-574a-4d96-ba85-bac9cec167a4)
 
 
-```
+
 <h1> 用法 </h1>
 1.<br>
 pip3 install -r requirement.txt<br>
